@@ -1,8 +1,0 @@
-Tasks API
-Title, description, isCompleted
-
-// Create a Tasks
-// Get all tasks
-// Get a specific task
-// Update a task
-// Delete a task
